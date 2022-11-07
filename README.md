@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 Welcome to my git hub repro!
+
+- 🔭 I’m currently working on Formula 1 Qualifying Prediction
+- 🌱 I’m currently learning Data Science & Behavioural Science
 <!--
 **bensail-ai/bensail-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
